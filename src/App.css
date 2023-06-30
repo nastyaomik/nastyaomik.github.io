@@ -337,7 +337,7 @@ img {
 }
 
 .bg__title {
-    font-size: clamp(15.625rem, 13.5417rem + 9.5238vw, 21.875rem);
+    font-size: clamp(5.625rem, 4.5417rem + 9.5238vw, 21.875rem);
     font-family: var(--second-font);
     font-weight: 700;
     white-space: nowrap;

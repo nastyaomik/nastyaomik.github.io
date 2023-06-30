@@ -249,6 +249,11 @@
     margin-top: 80px;
   }
 
+  .resume__container {
+    grid-template-columns: 1fr;
+    margin-right: 20px;
+  }
+
   .resume__header {
     padding: 28px 24px;
   }
