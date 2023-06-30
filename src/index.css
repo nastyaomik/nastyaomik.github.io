@@ -193,13 +193,13 @@
   }
 
   .home__data-one {
+    bottom: -2%;
     left: -12%;
-    bottom: 15%;
   }
 
   .home__data-two {
+    bottom: 3%;
     right: 0%;
-    bottom: 5%;
   }
 
   .shape__1 {
@@ -288,12 +288,12 @@
 
   .home__data-one {
     left: -12%;
-    bottom: 5%;
+    bottom: -5%;
   }
 
   .home__data-two {
     right: -10%;
-    bottom: -5%;
+    bottom: 0%;
   }
 
   .card-one,
