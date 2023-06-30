@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19f35ee1.css",
+    "main.js": "/static/js/main.b2a8ed12.js",
+    "static/js/787.31046858.chunk.js": "/static/js/787.31046858.chunk.js",
+    "static/media/project_rpg.png": "/static/media/project_rpg.096fd79f7dfc38fc3046.png",
+    "static/media/project_multiplayer.png": "/static/media/project_multiplayer.dc5c376481cb3eecefe5.png",
+    "static/media/project_graph.png": "/static/media/project_graph.4cc3586a30d084fc94e8.png",
+    "static/media/project_light.png": "/static/media/project_light.c82a6cf07585f050ea6a.png",
+    "static/media/profile.png": "/static/media/profile.151c03574b2e4d45ba8d.png",
+    "static/media/shape-1.png": "/static/media/shape-1.f993c54d014c15b4a866.png",
+    "static/media/shape-2.png": "/static/media/shape-2.404a994ec7f7b1e7288d.png",
+    "static/media/NikitaPermyakov_CV.pdf": "/static/media/NikitaPermyakov_CV.f88bf18c705b70d8de53.pdf",
+    "static/media/blog3.jpg": "/static/media/blog3.a5a7760f557b5ea910e7.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.21976fdfabdc664dac57.jpg",
+    "index.html": "/index.html",
+    "main.19f35ee1.css.map": "/static/css/main.19f35ee1.css.map",
+    "main.b2a8ed12.js.map": "/static/js/main.b2a8ed12.js.map",
+    "787.31046858.chunk.js.map": "/static/js/787.31046858.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f35ee1.css",
+    "static/js/main.b2a8ed12.js"
+  ]
+}
