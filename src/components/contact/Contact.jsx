@@ -94,7 +94,7 @@ const Contact = () => {
                     </div>
                     <div className="contact__form-div">
                         <label className="contact__form-tag text-cs">
-                            Your full Name <b>*</b>
+                            Your Subject <b>*</b>
                         </label>
                         <input
                             type="text"
