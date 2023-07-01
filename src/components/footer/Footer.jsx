@@ -19,7 +19,7 @@ const Footer = () => {
                 </a>
             </div>
             <p className="footer__copyright text-cs">
-                &copy; 2023 <span>Leshy</span>. All Rights Reserved
+                &copy; 2023 <span>Cassiopeia</span>. All Rights Reserved
             </p>
             <p className="footer__copyright text-cs">
                 Developed by <span>Nikita Permyakov</span>
