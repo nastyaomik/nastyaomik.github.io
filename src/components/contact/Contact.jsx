@@ -92,18 +92,6 @@ const Contact = () => {
                             className="contact__form-input"
                         />
                     </div>
-                    <div className="contact__form-div">
-                        <label className="contact__form-tag text-cs">
-                            Your Subject <b>*</b>
-                        </label>
-                        <input
-                            type="text"
-                            name="subject"
-                            onChange={handleChange}
-                            value={form.subject}
-                            className="contact__form-input"
-                        />
-                    </div>
                 </div>
                 <div className="contact__form-div">
                     <label className="contact__form-tag text-cs">
